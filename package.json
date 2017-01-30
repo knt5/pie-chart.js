@@ -1,0 +1,23 @@
+{
+  "name": "pie-chart.js",
+  "version": "1.0.0",
+  "description": "WebGL pie chart library",
+  "author": "knt5",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knt5/pie-chart.js.git"
+  },
+  "keywords": [
+    "webgl",
+    "3d",
+    "pie",
+    "chart",
+    "library"
+  ],
+  "homepage": "https://github.com/knt5/pie-chart.js"
+}
